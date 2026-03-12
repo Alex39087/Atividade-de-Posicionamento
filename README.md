@@ -1,1 +1,1 @@
-# Atividade-de-Posicionamento
+Este é um projeto simples para testar conceitos fundamentais de CSS como Box-Sizing, Positioning e Z-index.
